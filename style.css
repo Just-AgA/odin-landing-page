@@ -90,14 +90,31 @@ ul {
 
 .inner-content-one {
     display: flex;
-    gap: 10px;
+    justify-content: center;
+    padding-bottom: 60px;
 }
 
-.text-box {
-    border: black 4px;
-    width: 55px;
-    height: 55px;
+.header-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin-bottom: 40px;
 }
+
+.text {
+    text-align: center;
+    text-wrap: pretty;
+    margin: 10px;
+}
+
+.images img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 15px;
+  }
 
 .content-two {
     flex-grow: 2;
