@@ -179,8 +179,14 @@ blockquote p {
     font-size: 22px;
 }
 
+.inner-content-three p {
+    font-size: 17px;
+}
+
 .inner-content-three div h4 {
-    margin-bottom: -20px;
+    margin: 16px 0 -20px 0;
+    font-size: 26px;
+    color: white;
 }
 
 .inner-content-three button {
