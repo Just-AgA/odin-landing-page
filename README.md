@@ -1,6 +1,6 @@
 This is The Odin Project Landing Page project,where i have created a new page using HMTL and CSS.
 
-In CSS i have used Flexbox in order to style it according to the specifications for the exercise
+In CSS i have used Flexbox in order to style it according to the specifications for the exercise,and the HTML structure is as per design. 
 
 Picture of the beach and the shores are courtesy of:
 Photo by Asad Photo Maldives: https://www.pexels.com/photo/photo-of-blue-sea-1430677/
